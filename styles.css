@@ -1,0 +1,14 @@
+
+h1 {
+  color: #177ab0;
+}
+
+p { 
+   text-indent: 30px;
+   font-family: 'robotolight';
+}
+
+div.anuncio {
+  border: 1px solid red;
+  margin: 2px;
+}
