@@ -4,8 +4,20 @@ h1 {
 }
 
 p { 
-   text-indent: 30px;
-   font-family: 'robotolight';
+  text-indent: 30px;
+  font-family: 'robotolight';
+}
+
+div.espaco {
+  margin-top:50px;
+}
+
+div#nav {
+  position: fixed;
+  top: 5px;
+  border: 1px solid red;
+  background: gray;
+  width: 100%;
 }
 
 div.anuncio {
